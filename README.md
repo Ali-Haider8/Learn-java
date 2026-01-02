@@ -14,7 +14,8 @@ A repository for storing **Java examples and practical exercises** from a learni
 🎞️ YouTube Playlist
 
 ## 🗓️ Learning Start Date
-📅 **2017**
+📅 **June 10, 2017**  
+⏰ **5 AM**
 
 ## 🎯 Purpose
 🎯 To organize Java learning examples and reference code.
