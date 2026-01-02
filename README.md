@@ -1,40 +1,20 @@
-# 📘 Learn Java
+# ☕ Learn Java
 
-This repository contains Java learning materials, practice code, and examples I wrote while studying Java programming.  
-The goal of this project is to provide simple and easy-to-understand code for beginners.
+A repository for storing **Java examples and practical exercises** from a learning course.
 
----
+## 📂 Repository Content
+- 📄 Java example files
+- 🧪 Practice exercises
+- 🧩 Course-related code files
 
-## ✨ What’s Included
-- Basic Java concepts
-- Variables, Conditions, and Loops
-- Methods and Functions
-- OOP fundamentals
-- Practice exercises
+## 📺 Course Source
+▶️ **Java basic to OOP | تعلم برمجة جافا**  
+📺 **TheNewBaghdad (بغداد الجديدة)**  
+👨‍🏫 **Dr. Hussein Alrubaye**  
+🎞️ YouTube Playlist
 
----
+## 🗓️ Learning Start Date
+📅 **2017**
 
-## 📚 Lessons / Topics
-| # | Topic |
-|---|--------|
-| 1 | Introduction to Java |
-| 2 | Variables & Data Types |
-| 3 | Operators |
-| 4 | If Statements & Conditions |
-| 5 | Loops |
-| 6 | Functions / Methods |
-| 7 | OOP Basics |
-
-> More content will be added as I continue learning.
-
----
-
-## ▶️ How to Run
-1. Open the project in **IntelliJ IDEA / Eclipse / NetBeans**
-2. Run any `.java` file
-3. Check the output in the console
-
----
-
-## 👨‍💻 About
-This project is for learning purposes only.
+## 🎯 Purpose
+🎯 To organize Java learning examples and reference code.
