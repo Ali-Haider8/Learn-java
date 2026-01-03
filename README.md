@@ -13,6 +13,6 @@
 👨‍🏫 **Dr. Hussein Alrubaye**  
 🎞️ YouTube Playlist
 
-## 🗓️ Learning Start Date — 📅 June 2017
+> *📅 **Learning Start Date — June 2017***
 
 🎯 **Purpose:** To organize Java learning examples and reference code.
