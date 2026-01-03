@@ -1,6 +1,6 @@
 # ☕ Learn Java
 
-A repository for storing **Java examples and practical exercises** from a learning course.
+> *A repository for storing **Java examples and practical exercises** from a learning course.*
 
 ## 📂 Repository Content
 - 📄 Java example files
@@ -13,9 +13,6 @@ A repository for storing **Java examples and practical exercises** from a learni
 👨‍🏫 **Dr. Hussein Alrubaye**  
 🎞️ YouTube Playlist
 
-## 🗓️ Learning Start Date
-📅 **June 10, 2017**  
-⏰ **5 AM**
+## 🗓️ Learning Start Date — 📅 June 2017
 
-## 🎯 Purpose
-🎯 To organize Java learning examples and reference code.
+🎯 **Purpose:** To organize Java learning examples and reference code.
